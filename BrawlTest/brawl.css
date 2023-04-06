@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    text-align:center;
+}
+
+img{
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
+
+.outer-layer{
+    margin-top: 10px;
+    padding: 32px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.69);
+    border: 1px solid black;
+    width: 600px;
+}
